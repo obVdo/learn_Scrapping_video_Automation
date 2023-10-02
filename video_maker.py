@@ -1,3 +1,4 @@
+# Dont forget to make trans.mp4 a transition video and a folder with all the background videos 
 from moviepy.editor import *
 import os
 import random
