@@ -1,3 +1,4 @@
+#Make sure all the libraries are installed before :)
 from selenium.webdriver.common.by import By
 from PIL import Image
 import io
